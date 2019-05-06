@@ -1,0 +1,7 @@
+.vscode
+coff2noff
+*.o
+*.log
+config.status
+Makefile
+config.h
